@@ -16,12 +16,6 @@ macOS 上的程序员瑞士军刀。该项目是 DevToys 的 macOS 版本，无�
 
 
 
-# How to Build
-
-
-
-
-
 # Screenshots
 
 ### Home
